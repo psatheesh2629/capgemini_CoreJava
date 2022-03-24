@@ -14,4 +14,8 @@ public class TestJunit {
 	public void testString(String s) {
 		System.out.println(s);
 	}
+	
+	public void testGitFeatureBranch() {
+		System.out.println("Hello Gitsss");
+	}
 }
